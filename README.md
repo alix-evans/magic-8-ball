@@ -1,5 +1,5 @@
 # magic-8-ball
-an infallible oracle
+an infallible oracle<br>
 Class project for Skillcrush.com 102.  HTML and CSS by Skillcrush, JS by me.
 
 To-Do:
